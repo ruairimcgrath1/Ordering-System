@@ -1,0 +1,23 @@
+\\dp-c1-fc-stud2\Stud2\Students\M\MCG10174427\Foundation Degree\Programming in.Net\Assignments\Assignment 1\RMC_Ordering_System\RMC_Ordering_System\bin\Debug\RMC_Ordering_System.exe.config
+\\dp-c1-fc-stud2\Stud2\Students\M\MCG10174427\Foundation Degree\Programming in.Net\Assignments\Assignment 1\RMC_Ordering_System\RMC_Ordering_System\obj\Debug\RMC_Ordering_System.frmLogin.resources
+\\dp-c1-fc-stud2\Stud2\Students\M\MCG10174427\Foundation Degree\Programming in.Net\Assignments\Assignment 1\RMC_Ordering_System\RMC_Ordering_System\obj\Debug\RMC_Ordering_System.frmMenu.resources
+\\dp-c1-fc-stud2\Stud2\Students\M\MCG10174427\Foundation Degree\Programming in.Net\Assignments\Assignment 1\RMC_Ordering_System\RMC_Ordering_System\obj\Debug\RMC_Ordering_System.Properties.Resources.resources
+\\dp-c1-fc-stud2\Stud2\Students\M\MCG10174427\Foundation Degree\Programming in.Net\Assignments\Assignment 1\RMC_Ordering_System\RMC_Ordering_System\obj\Debug\RMC_Ordering_System.csproj.GenerateResource.Cache
+\\dp-c1-fc-stud2\Stud2\Students\M\MCG10174427\Foundation Degree\Programming in.Net\Assignments\Assignment 1\RMC_Ordering_System\RMC_Ordering_System\bin\Debug\RMC_Ordering_System.exe
+\\dp-c1-fc-stud2\Stud2\Students\M\MCG10174427\Foundation Degree\Programming in.Net\Assignments\Assignment 1\RMC_Ordering_System\RMC_Ordering_System\bin\Debug\RMC_Ordering_System.pdb
+\\dp-c1-fc-stud2\Stud2\Students\M\MCG10174427\Foundation Degree\Programming in.Net\Assignments\Assignment 1\RMC_Ordering_System\RMC_Ordering_System\obj\Debug\RMC_Ordering_System.exe
+\\dp-c1-fc-stud2\Stud2\Students\M\MCG10174427\Foundation Degree\Programming in.Net\Assignments\Assignment 1\RMC_Ordering_System\RMC_Ordering_System\obj\Debug\RMC_Ordering_System.pdb
+\\dp-c1-fc-stud2\Stud2\Students\M\MCG10174427\Foundation Degree\Programming in.Net\Assignments\Assignment 1\RMC_Ordering_System\RMC_Ordering_System\obj\Debug\RMC_Ordering_System.csprojResolveAssemblyReference.cache
+\\dp-c1-fc-stud2\Stud2\Students\M\MCG10174427\Foundation Degree\Programming in.Net\Assignments\Assignment 1\RMC_Ordering_System\RMC_Ordering_System\obj\Debug\RMC_Ordering_System.frmRegister.resources
+J:\Foundation Degree\Assignments\Year 2\Programming .NET\Assignment 1\RMC_Ordering_System\RMC_Ordering_System\bin\Debug\RMC_Ordering_System.exe.config
+J:\Foundation Degree\Assignments\Year 2\Programming .NET\Assignment 1\RMC_Ordering_System\RMC_Ordering_System\obj\Debug\RMC_Ordering_System.exe
+J:\Foundation Degree\Assignments\Year 2\Programming .NET\Assignment 1\RMC_Ordering_System\RMC_Ordering_System\obj\Debug\RMC_Ordering_System.pdb
+J:\Foundation Degree\Assignments\Year 2\Programming .NET\Assignment 1\RMC_Ordering_System\RMC_Ordering_System\obj\Debug\RMC_Ordering_System.csprojResolveAssemblyReference.cache
+J:\Foundation Degree\Assignments\Year 2\Programming .NET\Assignment 1\RMC_Ordering_System\RMC_Ordering_System\obj\Debug\RMC_Ordering_System.frmLogin.resources
+J:\Foundation Degree\Assignments\Year 2\Programming .NET\Assignment 1\RMC_Ordering_System\RMC_Ordering_System\obj\Debug\RMC_Ordering_System.frmMenu.resources
+J:\Foundation Degree\Assignments\Year 2\Programming .NET\Assignment 1\RMC_Ordering_System\RMC_Ordering_System\obj\Debug\RMC_Ordering_System.frmRegister.resources
+J:\Foundation Degree\Assignments\Year 2\Programming .NET\Assignment 1\RMC_Ordering_System\RMC_Ordering_System\obj\Debug\RMC_Ordering_System.frmResetPassword.resources
+J:\Foundation Degree\Assignments\Year 2\Programming .NET\Assignment 1\RMC_Ordering_System\RMC_Ordering_System\obj\Debug\RMC_Ordering_System.Properties.Resources.resources
+J:\Foundation Degree\Assignments\Year 2\Programming .NET\Assignment 1\RMC_Ordering_System\RMC_Ordering_System\obj\Debug\RMC_Ordering_System.csproj.GenerateResource.Cache
+J:\Foundation Degree\Assignments\Year 2\Programming .NET\Assignment 1\RMC_Ordering_System\RMC_Ordering_System\bin\Debug\RMC_Ordering_System.exe
+J:\Foundation Degree\Assignments\Year 2\Programming .NET\Assignment 1\RMC_Ordering_System\RMC_Ordering_System\bin\Debug\RMC_Ordering_System.pdb
